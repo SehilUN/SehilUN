@@ -26,7 +26,7 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 <p align="center">
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge&logo=github">
   <img src="https://img.shields.io/badge/coding-.NET_Core-blue?style=for-the-badge&logo=visualstudio">
-  <img src="https://img.shields.io/badge/listening-lofi_beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  <img src="https://img.shields.io/badge/listening-Yansın_Ankara-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
 </p>
 
 
