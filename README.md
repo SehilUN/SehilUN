@@ -71,6 +71,9 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehilUN&layout=compact&theme=radical" height="165">
 </p>
 
-
-
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0066&height=120&section=footer"/>
+</p>
+
