@@ -23,6 +23,13 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
   <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,docker,visualstudio,html,css,bootstrap,postgresql,sqlite&perline=6" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/coding-.NET_Core-blue?style=for-the-badge&logo=visualstudio">
+  <img src="https://img.shields.io/badge/listening-lofi_beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+</p>
+
+
 ---
 
 ### 🧩 Şu Aralar
