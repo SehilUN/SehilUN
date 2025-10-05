@@ -5,7 +5,6 @@
 <p align="center">
   🎓 Bilgisayar Mühendisliği Yüksek Lisans — Manisa Celal Bayar Üniversitesi<br>
   🌍 Manisa, Türkiye<br>
-  ☕ Kodumu kahveyle derlerim, hataları sabırla çözerim 😄
 </p>
 
 ---
@@ -43,9 +42,11 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 ---
 
 ### ✨ Fun Facts
-- 🐍 Python ile veri bilimiyle flört halindeyim  
+- 🤖💾 Herkes yalan söyler, veritabanı asla.
+- 🐍 Python ile veri bilimiyle flört halindeyim
 - 🧩 Kod dışı hobilerim: müzik, teknoloji, strateji oyunları  
-- ☁️ “Commit yapmadan gün bitmez.”  
+- ☁️ “Commit yapmadan gün bitmez.”
+- ⚙️ Debug modunda hayat yaşıyorum.
 
 ---
 
