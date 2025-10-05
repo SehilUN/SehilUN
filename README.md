@@ -60,8 +60,8 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 ---
 ### 📫 Bana Ulaş
 <p align="center">
-  🌐 <a href="https://sehilun.dev" target="_blank">sehilun.dev</a>  
-  💼 <a href="https://www.linkedin.com/in/sehil-ün-1a8683214" target="_blank">linkedin.com/in/sehilun</a> <br>
+  🌐 <a href="https://sehilun.dev" target="_blank">sehilun.dev</a>  <br>
+  💼 <a href="https://www.linkedin.com/in/sehil-ün-1a8683214" target="_blank">linkedin.com/in/sehilun</a>
 </p>
 
 ---
