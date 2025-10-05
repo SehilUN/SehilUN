@@ -20,8 +20,9 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 
 ### ⚙️ Teknoloji Cephaneliğim
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,docker,visualstudio,vscode,html,css,bootstrap,js,ts,react,postgresql,sqlite,linux,kali,windows,apple,android,postman,powershell,bash,azure,python&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,docker,visualstudio,vscode,html,css,bootstrap,js,react,postgresql,sqlite,linux,kali,windows,apple,androidstudio,postman,powershell,bash,azure,python&perline=9" />
 </p>
+
 
 
 
