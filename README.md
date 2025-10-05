@@ -71,14 +71,16 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehilUN&layout=compact&theme=radical" height="165">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SehilUN/SehilUN/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0066&height=120&section=footer"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=💻%20Keep%20Coding%20Sehil!&width=800&height=150" />
+</p>
+
 
