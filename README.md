@@ -1,5 +1,5 @@
 <!-- PROFIL README - Sehil Ün -->
-<h1 align="center">👋 Hey, ben <span style="color:#6C63FF;">Sehil Ün</span></h1>
+<h1 align="center"><span style="color:#6C63FF;">Sehil Ün</span></h1>
 <h3 align="center">💻 Yazılım Geliştirme Uzmanı @ Vestel | 🚀 .NET & DevOps Enthusiast</h3>
 
 <p align="center">
