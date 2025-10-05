@@ -3,7 +3,8 @@
 <h3 align="center">💻 Yazılım Geliştirme Uzmanı @ Vestel | 🚀 .NET & DevOps Enthusiast</h3>
 
 <p align="center">
-  🎓 Bilgisayar Mühendisliği Yüksek Lisans — Manisa Celal Bayar Üniversitesi<br>
+  🎓 Bilgisayar Mühendisliği Lisans — Çukurova Üniversitesi<br>
+  💻 Bilgisayar Mühendisliği Yüksek Lisans — Manisa Celal Bayar Üniversitesi<br>
   🌍 Manisa, Türkiye<br>
 </p>
 
