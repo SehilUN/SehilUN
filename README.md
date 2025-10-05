@@ -5,15 +5,16 @@
 <p align="center">
   🎓 Bilgisayar Mühendisliği Yüksek Lisans — Manisa Celal Bayar Üniversitesi<br>
   🌍 Manisa, Türkiye<br>
-  ☕ Kodu kahveyle derlerim, hataları sabırla çözerim 😄
+  ☕ Kodumu kahveyle derlerim, hataları sabırla çözerim 😄
 </p>
 
 ---
 
 ### 🧠 Hakkımda
-Ben Sehil! Kod yazarken kahvemi eksik etmem, yeni teknolojileri denemekten de hiç çekinmem.  
-Backend tarafında **C#** ve **.NET Core** ile sistemler kurar, **CI/CD** süreçlerini keyifle otomatize ederim.  
-Arada bir Docker konteynerlerinin içinde kaybolurum ama sonunda hep bir çıkış bulurum. 🐳
+Ben Sehil! Backend geliştirme ve sistem entegrasyonu alanında çalışıyorum.  
+Projelerimde **.NET Core**, **ASP.NET MVC**, **C#** ve **SQL Server** gibi teknolojileri aktif kullanıyorum.  
+Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla işleri otomatikleştirmeyi seviyorum.  
+> "Kod sadece çalışmak için değil, anlaşılmak için de yazılır." 😎  
 
 ---
 
@@ -25,10 +26,10 @@ Arada bir Docker konteynerlerinin içinde kaybolurum ama sonunda hep bir çıkı
 ---
 
 ### 🧩 Şu Aralar
-- 🔭 Yeni CI/CD otomasyon pipeline’ları geliştiriyorum  
-- 🌱 .NET 9 ve Blazor’a göz kırpıyorum  
-- 🧠 DevOps kültürünü projelere entegre etmeye çalışıyorum  
-- 🎧 Kod yazarken lo-fi veya synthwave dinliyorum  
+- 🔭 CI/CD pipeline’larını optimize ediyorum  
+- 🌱 .NET 9 ve Blazor öğreniyorum  
+- 🧠 Container tabanlı mikro servis mimarilerine dalıyorum  
+- 🎧 Kod yazarken lo-fi & synthwave dinliyorum  
 
 ---
 
@@ -45,23 +46,23 @@ Arada bir Docker konteynerlerinin içinde kaybolurum ama sonunda hep bir çıkı
 ---
 
 ### ✨ Fun Facts
-- 🐍 Python ile veri bilimiyle de flört ediyorum  
-- 🧩 Kod dışı hobilerim: oyun, müzik, teknoloji trendleri  
-- 🧠 “Stack Overflow benim Google’ım!”  
+- 🐍 Python ile veri bilimiyle flört halindeyim  
+- 🧩 Kod dışı hobilerim: müzik, teknoloji, strateji oyunları  
+- ☁️ “Commit yapmadan gün bitmez.”  
 
 ---
 
 ### 📫 Bana Ulaş
 <p align="center">
-  🌐 <a href="https://sehilun.dev">sehilun.dev</a>  
-  💼 <a href="https://www.linkedin.com/in/sehilun">linkedin.com/in/sehilun</a>  
+  🌐 <a href="https://sehilun.dev" target="_blank">sehilun.dev</a>  
+  💼 <a href="https://www.linkedin.com/in/sehilun" target="_blank">linkedin.com/in/sehilun</a>  
   ✉️ sehilun@example.com  
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SehilUN/SehilUN/main/assets/coding.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHExZ3RuZmh2ZW45cDVmNmlmNDRpOGUzcm9kaTVmZGpvN3UwNThybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Typing Cat GIF">
 </p>
 
 <p align="center">
