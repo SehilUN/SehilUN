@@ -20,8 +20,10 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 
 ### ⚙️ Teknoloji Cephaneliğim
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,docker,visualstudio,html,css,bootstrap,postgresql,sqlite&perline=6" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,githubactions,docker,visualstudio,vscode,html,css,bootstrap,js,ts,react,postgresql,sqlite,linux,kali,windows,apple,android,postman,powershell,bash,azure,python&perline=9" />
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge&logo=github">
@@ -30,7 +32,6 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
   <img src="https://img.shields.io/badge/listening-The_Horse_and_The_Infant-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </p>
-
 
 ---
 
@@ -41,12 +42,13 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 
 ---
 
-
 ### ✨ Fun Facts
-- 🤖💾 Herkes yalan söyler, veritabanı asla.
-- 🐍 Python ile veri bilimiyle flört halindeyim
+- 🤖💾 Herkes yalan söyler, veritabanı asla.  
+- 🕵️‍♂️ Damarlarımda siberci kanı akıyor — bazen Wireshark açıp ağ trafiğini izlemek terapi gibi.  
+- 🌙 Karanlık tema sadece bir yaşam biçimi değil; ışık modu açılınca gözlerim exception fırlatıyor. 💡  
+- 🐍 Python ile veri bilimiyle flört halindeyim  
 - 🧩 Kod dışı hobilerim: müzik, teknoloji, strateji oyunları  
-- ☁️ “Commit yapmadan gün bitmez.”
+- ☁️ “Commit yapmadan gün bitmez.”  
 - ⚙️ Debug modunda hayat yaşıyorum.
 
 ---
@@ -60,6 +62,7 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 </p>
 
 ---
+
 ### 📫 Bana Ulaş
 <p align="center">
   🌐 <a href="https://sehilun.dev" target="_blank">sehilun.dev</a>  <br>
@@ -67,6 +70,7 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 </p>
 
 ---
+
 ### 📈 GitHub İstatistikleri
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SehilUN&show_icons=true&theme=radical" height="165">
@@ -82,7 +86,3 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Sehil%20ÜN!&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,4,5,30&animation=twinkling&fontColor=fff" />
 </p>
-
-
-
-
