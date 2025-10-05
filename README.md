@@ -14,7 +14,7 @@
 Ben Sehil! Backend geliştirme ve sistem entegrasyonu alanında çalışıyorum.  
 Projelerimde **.NET Core**, **ASP.NET MVC**, **C#** ve **SQL Server** gibi teknolojileri aktif kullanıyorum.  
 Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla işleri otomatikleştirmeyi seviyorum.  
-> "Kod sadece çalışmak için değil, anlaşılmak için de yazılır." 😎  
+> "If it works, don't touch it." 🚫  
 
 ---
 
@@ -39,15 +39,6 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 
 ---
 
-### 📈 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SehilUN&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehilUN&layout=compact&theme=radical" height="165">
-</p>
-
-
-
----
 
 ### ✨ Fun Facts
 - 🤖💾 Herkes yalan söyler, veritabanı asla.
@@ -58,14 +49,6 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 
 ---
 
-### 📫 Bana Ulaş
-<p align="center">
-  🌐 <a href="https://sehilun.dev" target="_blank">sehilun.dev</a>  
-  💼 <a href="https://www.linkedin.com/in/sehil-ün-1a8683214" target="_blank">linkedin.com/in/sehilun</a>  
-</p>
-
----
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNmZ3I1ZjAxempsYW1rZzNlYTN1cDQwZTNkbmRoOHNldG4xeWlhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="400" alt="Typing Cat GIF">
 </p>
@@ -73,3 +56,21 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 <p align="center">
   <i>“Basit kod iyi koddur. Karmaşık olanı çözmek, geliştiricinin sanatıdır.”</i> 🎨
 </p>
+
+---
+### 📫 Bana Ulaş
+<p align="center">
+  🌐 <a href="https://sehilun.dev" target="_blank">sehilun.dev</a>  
+  💼 <a href="https://www.linkedin.com/in/sehil-ün-1a8683214" target="_blank">linkedin.com/in/sehilun</a>  
+</p>
+
+---
+### 📈 GitHub İstatistikleri
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SehilUN&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehilUN&layout=compact&theme=radical" height="165">
+</p>
+
+
+
+---
