@@ -29,7 +29,6 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 - 🔭 CI/CD pipeline’larını optimize ediyorum  
 - 🌱 .NET 9 ve Blazor öğreniyorum  
 - 🧠 Container tabanlı mikro servis mimarilerine dalıyorum  
-- 🎧 Kod yazarken lo-fi & synthwave dinliyorum  
 
 ---
 
@@ -39,9 +38,7 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SehilUN&layout=compact&theme=radical" height="165">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SehilUN&theme=radical" alt="GitHub streak" />
-</p>
+
 
 ---
 
@@ -55,8 +52,7 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 ### 📫 Bana Ulaş
 <p align="center">
   🌐 <a href="https://sehilun.dev" target="_blank">sehilun.dev</a>  
-  💼 <a href="https://www.linkedin.com/in/sehilun" target="_blank">linkedin.com/in/sehilun</a>  
-  ✉️ sehilun@example.com  
+  💼 <a href="https://www.linkedin.com/in/sehil-ün-1a8683214" target="_blank">linkedin.com/in/sehilun</a>  
 </p>
 
 ---
