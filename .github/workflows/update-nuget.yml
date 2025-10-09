@@ -1,0 +1,42 @@
+name: 🔄 Update NuGet Packages (shlun)
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Her sabah 06:00'da otomatik güncelleme
+  workflow_dispatch:      # Manuel çalıştırma da mümkün
+
+jobs:
+  update-nuget:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch NuGet data
+        run: |
+          echo "📦 Fetching NuGet packages for user: shlun"
+          curl -s "https://api-v2v3search-0.nuget.org/query?q=owner:shlun" > nuget.json
+          cat nuget.json | jq '.data[] | {id, version, totalDownloads}' > nuget_list.json
+
+      - name: Generate NuGet markdown section
+        run: |
+          echo "<p align=\"center\">" > nuget.md
+          echo "  <img src=\"https://img.shields.io/badge/NuGet-shlun-blue?style=for-the-badge&logo=nuget\" />" >> nuget.md
+          echo "</p>" >> nuget.md
+          echo "" >> nuget.md
+          echo "| Paket | Sürüm | İndirme |" >> nuget.md
+          echo "|--------|--------|----------|" >> nuget.md
+          cat nuget_list.json | jq -r '"| [\(.id)](https://www.nuget.org/packages/\(.id)) | ![Version](https://img.shields.io/nuget/v/\(.id).svg) | ![Downloads](https://img.shields.io/nuget/dt/\(.id).svg) |"' >> nuget.md
+
+      - name: Insert NuGet section into README
+        run: |
+          awk '/<!-- NUGET-START -->/{print; system("cat nuget.md"); f=1} /<!-- NUGET-END -->/{f=0} !f' README.md > temp.md && mv temp.md README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "shlun-bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add README.md
+          git commit -m "🧩 Auto-update NuGet package list"
+          git push
