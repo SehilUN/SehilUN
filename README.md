@@ -36,6 +36,23 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 
 ---
 
+
+### 📦 NuGet Paketlerim
+<!-- NUGET-START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NuGet-shlun-blue?style=for-the-badge&logo=nuget" />
+</p>
+
+| Paket | Sürüm | İndirme |
+|--------|--------|----------|
+| [shlun.MyLibrary](https://www.nuget.org/packages/shlun.MyLibrary) | ![NuGet](https://img.shields.io/nuget/v/shlun.MyLibrary.svg?label=version&color=blue) | ![Downloads](https://img.shields.io/nuget/dt/shlun.MyLibrary.svg?color=brightgreen) |
+| [shlun.DataTools](https://www.nuget.org/packages/shlun.DataTools) | ![NuGet](https://img.shields.io/nuget/v/shlun.DataTools.svg?label=version&color=blue) | ![Downloads](https://img.shields.io/nuget/dt/shlun.DataTools.svg?color=brightgreen) |
+
+<!-- NUGET-END -->
+
+---
+
+
 ### 🧩 Şu Aralar
 - 🔭 CI/CD pipeline’larını optimize ediyorum  
 - 🌱 .NET 9 ve Blazor öğreniyorum  
