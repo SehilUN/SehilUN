@@ -41,16 +41,47 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 <!-- NUGET-START -->
 <p align="center">
   <a href="https://www.nuget.org/profiles/shlun" target="_blank">
-    <img src="https://img.shields.io/badge/NuGet-shlun-6C63FF?style=for-the-badge&logo=nuget&logoColor=white" />
+    <img src="https://img.shields.io/badge/NuGet-shlun-6C63FF?style=for-the-badge&logo=nuget&logoColor=white" alt="NuGet Profile"/>
   </a>
 </p>
 
-| Paket | Sürüm | İndirme |
-|--------|--------|----------|
-| [su_modernAlert](https://www.nuget.org/packages/su_modernAlert) | ![NuGet](https://img.shields.io/nuget/v/su_modernAlert.svg?label=version&color=6C63FF) | ![Downloads](https://img.shields.io/nuget/dt/su_modernAlert.svg?color=brightgreen) |
-| [ModernNotify](https://www.nuget.org/packages/ModernNotify) | ![NuGet](https://img.shields.io/nuget/v/ModernNotify.svg?label=version&color=6C63FF) | ![Downloads](https://img.shields.io/nuget/dt/ModernNotify.svg?color=brightgreen) |
-
+<p align="center">
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <th style="background: linear-gradient(90deg, #6C63FF, #9C6CFF); color: white; padding: 10px 20px; border: none;">📦 Paket</th>
+      <th style="background: linear-gradient(90deg, #6C63FF, #9C6CFF); color: white; padding: 10px 20px; border: none;">🧾 Sürüm</th>
+      <th style="background: linear-gradient(90deg, #6C63FF, #9C6CFF); color: white; padding: 10px 20px; border: none;">📈 İndirme</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px 20px; text-align:center; border:none;">
+        <a href="https://www.nuget.org/packages/su_modernAlert" target="_blank">
+          <b>su_modernAlert</b>
+        </a>
+      </td>
+      <td style="padding: 10px 20px; text-align:center; border:none;">
+        <img src="https://img.shields.io/nuget/v/su_modernAlert.svg?label=v&color=6C63FF&style=flat-square"/>
+      </td>
+      <td style="padding: 10px 20px; text-align:center; border:none;">
+        <img src="https://img.shields.io/nuget/dt/su_modernAlert.svg?color=00C853&label=downloads&style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 20px; text-align:center; border:none;">
+        <a href="https://www.nuget.org/packages/ModernNotify" target="_blank">
+          <b>ModernNotify</b>
+        </a>
+      </td>
+      <td style="padding: 10px 20px; text-align:center; border:none;">
+        <img src="https://img.shields.io/nuget/v/ModernNotify.svg?label=v&color=6C63FF&style=flat-square"/>
+      </td>
+      <td style="padding: 10px 20px; text-align:center; border:none;">
+        <img src="https://img.shields.io/nuget/dt/ModernNotify.svg?color=00C853&label=downloads&style=flat-square"/>
+      </td>
+    </tr>
+  </table>
+</p>
 <!-- NUGET-END -->
+
 
 
 ---
