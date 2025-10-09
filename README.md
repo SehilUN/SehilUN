@@ -40,15 +40,18 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 ### 📦 NuGet Paketlerim
 <!-- NUGET-START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/NuGet-shlun-blue?style=for-the-badge&logo=nuget" />
+  <a href="https://www.nuget.org/profiles/shlun" target="_blank">
+    <img src="https://img.shields.io/badge/NuGet-shlun-6C63FF?style=for-the-badge&logo=nuget&logoColor=white" />
+  </a>
 </p>
 
 | Paket | Sürüm | İndirme |
 |--------|--------|----------|
-| [shlun.MyLibrary](https://www.nuget.org/packages/shlun.MyLibrary) | ![NuGet](https://img.shields.io/nuget/v/shlun.MyLibrary.svg?label=version&color=blue) | ![Downloads](https://img.shields.io/nuget/dt/shlun.MyLibrary.svg?color=brightgreen) |
-| [shlun.DataTools](https://www.nuget.org/packages/shlun.DataTools) | ![NuGet](https://img.shields.io/nuget/v/shlun.DataTools.svg?label=version&color=blue) | ![Downloads](https://img.shields.io/nuget/dt/shlun.DataTools.svg?color=brightgreen) |
+| [su_modernAlert](https://www.nuget.org/packages/su_modernAlert) | ![NuGet](https://img.shields.io/nuget/v/su_modernAlert.svg?label=version&color=6C63FF) | ![Downloads](https://img.shields.io/nuget/dt/su_modernAlert.svg?color=brightgreen) |
+| [ModernNotify](https://www.nuget.org/packages/ModernNotify) | ![NuGet](https://img.shields.io/nuget/v/ModernNotify.svg?label=version&color=6C63FF) | ![Downloads](https://img.shields.io/nuget/dt/ModernNotify.svg?color=brightgreen) |
 
 <!-- NUGET-END -->
+
 
 ---
 
