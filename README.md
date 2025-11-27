@@ -1,6 +1,6 @@
 <!-- PROFIL README - Sehil Ün -->
 <h1 align="center"><span style="color:#6C63FF;">Sehil Ün</span></h1>
-<h3 align="center">💻 ⚙️ Full Stack Developer | 🚀 .NET & DevOps Enthusiast</h3>
+<h3 align="center">⚙️ Full Stack Developer | 🚀 .NET & DevOps Enthusiast</h3>
 
 <p align="center">
   🎓 Bilgisayar Mühendisliği Lisans — Çukurova Üniversitesi<br>
