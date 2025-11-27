@@ -113,7 +113,7 @@ Ayrıca **CI/CD**, **GitHub Actions**, ve **Docker** gibi DevOps araçlarıyla i
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNmZ3I1ZjAxempsYW1rZzNlYTN1cDQwZTNkbmRoOHNldG4xeWlhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VekcnHOwOI5So/giphy.gif" width="400" alt="Typing Cat GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUydTRtc2V0dzlvOXIzbnB6b3JhcmZ0bmtpODdkOWh4ZWh1cjNxNDlmbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/200.gif" width="400" alt="Profile GIF">
 </p>
 
 <p align="center">
